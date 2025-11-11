@@ -5,6 +5,7 @@ import HeroContent from "./components/main/Hero";
 import Navbar from "./components/main/Navbar";
 import Projects from "./components/main/Project";
 import Page from "./components/main/Skils";
+import Certifications from "./components/main/Certifications";
 
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
         <Page/>
         <About/>
         <Projects/>
+        <Certifications/>
         <Contact/>
        <Footer/>
         
