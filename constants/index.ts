@@ -188,6 +188,27 @@ export const projects = [
     github: "https://github.com/oumaimadahar/AppWeather",
     demo: "https://app-weather-kappa-red.vercel.app/",
   },
+  {
+  id: 6,
+  title: "Création Web & Design",
+  description:
+  "Réalisation de projets variés en création web et design graphique avec WordPress, Elementor, Canva et Figma. Création et personnalisation de sites web avec WordPress et Elementor, conception de publications pour les réseaux sociaux, d'affiches publicitaires et de supports visuels avec Canva, ainsi que réalisation de designs graphiques avec Figma. Utilisation de différentes extensions WordPress, notamment WPForms, Yoast SEO, UpdraftPlus, Duplicate Page et Imagify. Le dépôt GitHub présente un exemple de projet WordPress, tandis que le dossier Google Drive regroupe des vidéos de démonstration des sites développés ainsi que des publications et affiches réalisées avec Canva.",
+  image: "/images/Magazin (2).png",
+  tags: [
+    "WordPress","Elementor","WPForms","Yoast SEO","UpdraftPlus","Duplicate Page","Imagify","Canva","Figma"
+  ],
+  github: "https://github.com/oumaimadahar/Voyage",
+  demo: "https://drive.google.com/drive/folders/1VezU3OzrDBmY8VhXyCe_SGFThWDWaMqI",
+},
+//   {
+//   id: 6,
+//   title: "Projets WordPress",
+//   description:
+//     "Cette collection regroupe plusieurs projets réalisés avec WordPress et Elementor. Le dossier Google Drive contient des vidéos de démonstration présentant les différents sites développés.",
+//   image: "/images/wordpress.jpg", // une image WordPress ou une illustration
+//   tags: ["WordPress", "Elementor", "wpforms", "Yoast SEO","UpdraftPlus","Duplicate Page","Imagify"],
+//   drive: "https://drive.google.com/drive/folders/1W1xvT5TninSioRy6N-bRQNDzexzmXIHl",
+// },
 
 ];
 //  les certifications
