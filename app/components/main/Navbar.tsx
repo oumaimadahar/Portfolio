@@ -69,6 +69,7 @@ import { NavLinks } from "@/constants";
 
 const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
+    
 
     return (
         <div className="w-full h-[65px] fixed top-0 shadow-lg shadow-[#2A0E61]/50 bg-[#1519274b] backdrop-blur-md z-50 px-10">

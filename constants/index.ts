@@ -166,7 +166,7 @@ export const projects = [
     image: "/images/portfolio.jpg",
     tags: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
     github: "https://github.com/oumaimadahar/Portfolio",
-    demo: "https://ton-site.com",
+    demo: "https://portfolio-eight-pi-99.vercel.app/",
   },
 
   {
